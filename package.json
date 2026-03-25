@@ -1,6 +1,6 @@
 {
   "name": "@tryvienna/sdk",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "SDK for building Vienna plugins — define entities, integrations, and UI extensions",
   "license": "Apache-2.0",
   "author": "the Vienna contributors",
@@ -13,7 +13,14 @@
   "bugs": {
     "url": "https://github.com/hellodrift/vienna/issues"
   },
-  "keywords": ["vienna", "plugin", "sdk", "entity", "integration", "graphql"],
+  "keywords": [
+    "vienna",
+    "plugin",
+    "sdk",
+    "entity",
+    "integration",
+    "graphql"
+  ],
   "engines": {
     "node": ">=22.0.0"
   },
