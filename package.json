@@ -6,12 +6,11 @@
   "author": "the Vienna contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hellodrift/vienna.git",
-    "directory": "packages/sdk"
+    "url": "https://github.com/tryvienna/sdk.git"
   },
-  "homepage": "https://github.com/hellodrift/vienna/tree/main/packages/sdk",
+  "homepage": "https://tryvienna.dev/docs",
   "bugs": {
-    "url": "https://github.com/hellodrift/vienna/issues"
+    "url": "https://github.com/tryvienna/sdk/issues"
   },
   "keywords": [
     "vienna",
