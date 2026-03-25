@@ -36,19 +36,10 @@ export const myPlugin = definePlugin({
 });
 ```
 
-## Key Exports
-
-- **`definePlugin()`** — Top-level plugin definition. Bundles integrations, entities, and UI canvases.
-- **`defineIntegration()`** — External API connection with auth (OAuth or credentials) and a typed client.
-- **`defineEntity()`** — Data type with a URI pattern, display metadata, and optional UI components.
-- **React Hooks** — `useQuery`, `useMutation`, `usePluginContext`, and more for plugin UI code.
-- **SchemaBuilder** — Extend the GraphQL schema with Pothos.
-
 ## Documentation
 
-For full documentation — including API references, canvas surfaces, entity definitions, schema extensions, testing, and error handling — visit:
-
-**[tryvienna.dev/docs](https://tryvienna.dev/docs)**
+- [Full documentation](https://tryvienna.dev/docs) — API references, canvas surfaces, entity definitions, schema extensions, and more.
+- [Build your first plugin](https://tryvienna.dev/docs/plugins/tutorial) — Step-by-step tutorial from zero to a working plugin.
 
 ## License
 
