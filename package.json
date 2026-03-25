@@ -1,6 +1,6 @@
 {
   "name": "@tryvienna/sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "SDK for building Vienna plugins — define entities, integrations, and UI extensions",
   "license": "Apache-2.0",
   "author": "the Vienna contributors",
